@@ -1,7 +1,7 @@
 # BLUPAY - A SIMPLE API CHALLENGE
 Submission by [Daniel Segovia](https://github.com/sego90)
 ## About
-Topcoder challenge by IBM. The purpose of the challenge is to create a simple API that serves a json response to a get request to the route `/products`. 
+Topcoder challenge by IBM. The purpose of the challenge is to create a simple API that serves a json response to a GET request with the route `/products`. 
 ## How to Start the Server
 Download and extract the files on a folder. Once in root file do the following:  
 First run `npm install`.  
