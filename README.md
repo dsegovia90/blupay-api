@@ -5,7 +5,8 @@ Topcoder challenge by IBM. The purpose of the challenge is to create a simple AP
 ## How to Start the Server
 Download and extract the files on a folder. Once in root file do the following:  
 First run `npm install`.  
-Then run `npm start`, and the server defaults to port 3000.
+Then run `npm start`, the server defaults to port 3000.
+If you open a broswer and enter [http://localhost:3000/products](http://localhost:3000/products) you should recieve a json with the products. You could also do a postman GET request to the same route. 
 ## Packages Used
 ### Init
 * [express-generator](https://expressjs.com/en/starter/generator.html) - Used this generator to create the starting file structure to simulate an unopinionated aproach. 
