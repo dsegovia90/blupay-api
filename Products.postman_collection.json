@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Products",
+		"_postman_id": "8c5bc218-87f6-d2be-f3e5-958d23a8a309",
+		"description": "GET request to the route `/products`, the app sends a json of the products. ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:3000/products",
+			"request": {
+				"url": "localhost:3000/products",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "GET products as a json"
+			},
+			"response": []
+		}
+	]
+}
